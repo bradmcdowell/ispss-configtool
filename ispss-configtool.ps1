@@ -31,6 +31,7 @@ do
     '1' {
     # Start Option 1        
     Write-Host 'You chose option #1 - Authenticate to ISPSS'
+    Write-host $ISPSSURL
     # End Option 1
     ###########################################
     } '2' {
